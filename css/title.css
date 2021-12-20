@@ -1,0 +1,13 @@
+.title{
+  /* border: 1px solid red; */
+}
+
+.title h1 {
+  margin: 0;
+  font: var(--headline1);
+  margin-block-end:1rem ;
+}
+
+.title p {
+  margin: 0;
+}

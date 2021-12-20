@@ -1,0 +1,13 @@
+.combos{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.combo {
+  display: flex;
+}
+
+.combo  span{
+  color: var(--grey);
+}

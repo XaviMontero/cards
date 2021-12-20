@@ -1,0 +1,15 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: .8rem;
+}
+
+.description h2 {
+  margin: 0;
+  font: var(--headline2);
+}
+
+.description p {
+  margin: 0;
+  color: var(--grey);
+}
