@@ -1,0 +1,28 @@
+.button {
+  border: none;
+  text-decoration: none;
+  background: rgba(255, 142, 60, 0.1);
+  color: var(--primary);
+  padding-inline: 2rem;
+  padding-block:0.75rem;
+  font: var(--body1-bold);
+  border-radius: 9.5rem;
+  cursor: pointer;
+  margin: none;
+}
+
+.button.is-primary{
+  border: none;
+  text-decoration: none;
+  background: var(--black);
+  color: var(--white);
+  padding-inline: 2rem;
+  padding-block:0.75rem;
+  font: var(--body1-bold);
+  border-radius: 9.5rem;
+}
+
+
+.button:active {
+  transform: scale(.9);
+}

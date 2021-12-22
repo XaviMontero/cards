@@ -6,8 +6,13 @@
 
 .combo {
   display: flex;
+  gap: 0.6rem ;
 }
 
 .combo  span{
   color: var(--grey);
+}
+
+.combo.is-inactive span{
+  color:rgba(55, 55, 55, 0.2);
 }

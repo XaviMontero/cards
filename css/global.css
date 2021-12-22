@@ -26,7 +26,10 @@
 .wrapper{
   /* border: 1px solid red; */
   max-block-size: 97.5rem;
-  margin-inline-start:11.25rem;
-  margin-inline-end:11.25rem;
+  margin-inline-start:6.25rem;
+  margin-inline-end:6.25rem;
   margin-block-start: 2.6rem;
+}
+i{
+  font-size: 1.5rem;
 }
